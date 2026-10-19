@@ -49,3 +49,15 @@ The website also includes navigation options for a travel disruption monitor, gr
 The primary objective of WanderWise AI is to simplify travel planning, improve budget awareness, and help users explore more destinations with the money they have available. By combining AI-assisted planning with structured cost estimates, transportation comparisons, destination guides, and travel-readiness tools, the platform aims to make travel planning more convenient, transparent, and accessible.
 
 **Project Link:** https://wanderwiseai.ai.studio/
+
+
+
+
+
+
+
+<img width="1917" height="975" alt="Screenshot 2026-10-20 011935" src="https://github.com/user-attachments/assets/221654ef-dad4-4b61-852e-2080cb901b2a" />
+<img width="1901" height="970" alt="Screenshot 2026-10-20 011927" src="https://github.com/user-attachments/assets/7eab5233-e5c3-41cd-90fc-ff58444d7102" />
+<img width="1893" height="968" alt="Screenshot 2026-10-20 011916" src="https://github.com/user-attachments/assets/8cb8c40e-bd1c-4db4-8802-948575c36557" />
+<img width="1902" height="963" alt="Screenshot 2026-10-20 011909" src="https://github.com/user-attachments/assets/a59b7b50-6f83-44c5-9d05-6dc42731bc08" />
+<img width="1912" height="971" alt="Screenshot 2026-10-20 011900" src="https://github.com/user-attachments/assets/d0034a30-2bc0-4dcd-9cf1-551db9c8929f" />
